@@ -14,6 +14,7 @@ Below I prepared some sample of the skills I gained through gant mermaid [docume
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ2FudHRcbiAgICB0aXRsZSBNaW5lIER5dmVuaWEgdHJhaW5pbmcgcGVyaW9kIEdhbm50IGNoYXJ0XG4gICAgZGF0ZUZvcm1hdCAgWVlZWS1NTS1ERFxuICAgIHNlY3Rpb24gT25ib2FyZGluZyBzdHVmZlxuICAgIExhcHRvcCBjb25maWd1cmF0aW9uIGFuZCBhY2Nlc3NlcyBxdWVyaW5nICAgICAgICAgICA6YTEsIDIwMjEtMTEtMTUsIDIwMjEtMTEtMjVcbiAgICBzZWN0aW9uIFByb2plY3Rpbmcgc3R1ZmZcbiAgICBTdGFydGluZyBQb3dlckJpIHRyYWluaW5ncyBhbmQgZ2V0dGluZyBrbm93biB3aXRoIHBhaWQgbWVkaWEgcHJvamVjdCAgIDoyMDIxLTExLTE4ICAsMjAyMS0xMS0yM1xuICAgIGRhdGVGb3JtYXQgWVlZWS1NTS1ERFxuICAgIHNlY3Rpb24gUHJvamVjdGluZyBzdHVmZlxuICAgIFdvcmtpbmcgb24gcGFpZCBtZWRpYSByZXBvcnQgaW1wcm92ZW1lbnRzICAgOjIwMjEtMTEtMjIgICwyMDIxLTExLTMwXG5cbkludHJvZHVjZSBteSBmaXJzdCBpbXByb3ZlbWV0cyBpZGVhcyA6IG1pbGVzdG9uZSwgbTEsIDIwMjEtMTItMDMsMWRcblxuXG4gICAgICAgICAgICAiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)](https://mermaid.live/edit#eyJjb2RlIjoiZ2FudHRcbiAgICB0aXRsZSBNaW5lIER5dmVuaWEgdHJhaW5pbmcgcGVyaW9kIEdhbm50IGNoYXJ0XG4gICAgZGF0ZUZvcm1hdCAgWVlZWS1NTS1ERFxuICAgIHNlY3Rpb24gT25ib2FyZGluZyBzdHVmZlxuICAgIExhcHRvcCBjb25maWd1cmF0aW9uIGFuZCBhY2Nlc3NlcyBxdWVyaW5nICAgICAgICAgICA6YTEsIDIwMjEtMTEtMTUsIDIwMjEtMTEtMjVcbiAgICBzZWN0aW9uIFByb2plY3Rpbmcgc3R1ZmZcbiAgICBTdGFydGluZyBQb3dlckJpIHRyYWluaW5ncyBhbmQgZ2V0dGluZyBrbm93biB3aXRoIHBhaWQgbWVkaWEgcHJvamVjdCAgIDoyMDIxLTExLTE4ICAsMjAyMS0xMS0yM1xuICAgIGRhdGVGb3JtYXQgWVlZWS1NTS1ERFxuICAgIHNlY3Rpb24gUHJvamVjdGluZyBzdHVmZlxuICAgIFdvcmtpbmcgb24gcGFpZCBtZWRpYSByZXBvcnQgaW1wcm92ZW1lbnRzICAgOjIwMjEtMTEtMjIgICwyMDIxLTExLTMwXG5cbkludHJvZHVjZSBteSBmaXJzdCBpbXByb3ZlbWV0cyBpZGVhcyA6IG1pbGVzdG9uZSwgbTEsIDIwMjEtMTItMDMsMWRcblxuXG4gICAgICAgICAgICAiLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
 
 
+
 ## **Scrum training**
 
 ### _Task = Find training to be part of Scrum team_
@@ -59,4 +60,10 @@ Focus on the core of the problem/situation/hypothesis You’re trying to present
 So I get familiar with existing Azure DevOps wiki files and python and SQL flows, which I have to admit was the hardest part of the training, mainly bc it's so easier
 to me to learning things by doing them, than studing existing code but I'm aware that's a important part of the proces so I tried my best to understand it as much as I could.
 
-I also prepared a simple visualization which was a part of the last excercise:
+I also prepared a simple visualization which was a part of the last excercise.
+    
+![sql_exc](https://user-images.githubusercontent.com/92440307/143510648-5fa2f3c0-15d6-4eb7-9c52-24850631604d.png)
+
+| Name | Surname | Company |
+| :------- | ----: | :---: |
+| Emanuel | Lorenc | Dyvenia |
