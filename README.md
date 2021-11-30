@@ -5,7 +5,7 @@
 As a markdown training I used below markdown [tutorial](https://www.markdowntutorial.com/), that helped me learned MKD fundamentals in a
 practical way.
 
-I also found a [cheat sheet](https://www.markdowntutorial.com/) with a most common and useful features that helped me lot in this file preparation.
+I also found a [cheat sheet](https://www.collectiveray.com/markdown-cheat-sheet) with a most common and useful features that helped me lot in this file preparation.
 
 ## **Mermaid Gannt charts**
 
